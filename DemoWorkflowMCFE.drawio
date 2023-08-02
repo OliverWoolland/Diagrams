@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T11:34:27.646Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N0unDw6PBLimfWfvg1ug" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T11:39:17.730Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1P_yNeMcVYtBMXVITbzn" version="21.6.6" type="github">
   <diagram name="Page-1" id="-kkIMWhP1wFm5d0qQMh-">
     <mxGraphModel dx="2327" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,9 @@
             <mxGeometry x="1490" y="515" width="200" height="170" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="m3QAj_qassRcRuOgxVbo-58" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1) A requirement is created and an initial paramak config is fetched&lt;br&gt;2) Paramak generates CAD, the workflow runs and fails&lt;br&gt;3) The parameter redesigner changes the paramak config&lt;br&gt;4) The workflow is rerun and passes&lt;br&gt;5) The engineer is notified and replaces the paramak pressure vessel with a realistic one&lt;br&gt;6) The workflow is rerun and fails&lt;br&gt;7) The engineer is notified and corrects their mistake&lt;br&gt;8) The workflow is rerun and passes&lt;br&gt;9) The output and provenance is saved&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="380" width="560" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
