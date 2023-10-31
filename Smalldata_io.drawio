@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T16:26:12.872Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JDEqoMtJI2-2H-4wGGVp" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:38:11.479Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="POAyujqQIlQeynJOLDXi" version="22.0.8" type="github" pages="6">
   <diagram name="Context" id="CBIn5JaQPjyVeEFCb1Bp">
     <mxGraphModel dx="1498" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -836,7 +836,7 @@
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="JSON/HTTP" c4Description="Returns requested object" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eyMFWV9tPRc5ipRES9B4-3">
           <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eyMFWV9tPRc5ipRES9B4-1" target="AIpBxFIAgxT1NOoAauDR-3" edge="1">
-            <mxGeometry width="240" relative="1" as="geometry">
+            <mxGeometry x="-0.1811" width="240" relative="1" as="geometry">
               <mxPoint x="1600" y="611" as="sourcePoint" />
               <mxPoint x="910" y="401" as="targetPoint" />
               <Array as="points">
@@ -845,6 +845,7 @@
                 <mxPoint x="1010" y="741" />
                 <mxPoint x="1010" y="401" />
               </Array>
+              <mxPoint as="offset" />
             </mxGeometry>
           </mxCell>
         </object>
@@ -931,11 +932,17 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="r-_yhJCIFSiYDjqoDsPf-5" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;background-color: rgb(0, 0, 255);&quot;&gt;Authentication&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r-_yhJCIFSiYDjqoDsPf-5" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 13, 13);&quot;&gt;Authentication&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="394.5" y="23" width="179" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="r-_yhJCIFSiYDjqoDsPf-11" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;background-color: rgb(0, 0, 255);&quot;&gt;Authorisation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="r-_yhJCIFSiYDjqoDsPf-12" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 13, 13);&quot;&gt;Authorisation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1122.5" y="23" width="179" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="r-_yhJCIFSiYDjqoDsPf-13" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;background-color: rgb(8, 0, 255);&quot;&gt;Privileged applications&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="23" width="179" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="r-_yhJCIFSiYDjqoDsPf-14" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 36px; background-color: rgb(8, 0, 255);&quot;&gt;&lt;b&gt;Smalldata&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1552.5" y="23" width="179" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
